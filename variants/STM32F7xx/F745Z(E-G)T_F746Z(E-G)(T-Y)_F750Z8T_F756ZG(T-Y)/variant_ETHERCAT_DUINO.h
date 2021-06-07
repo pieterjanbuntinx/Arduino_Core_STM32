@@ -176,81 +176,8 @@
 #define PC10_ALT1               (PC10 | ALT1)
 #define PC11_ALT1               (PC11 | ALT1)
 
-#define NUM_DIGITAL_PINS        54
-#define NUM_ANALOG_INPUTS       12
-
-#define D0                      PC11
-#define D1                      PC10
-#define D2                      PB14
-#define D3                      PD12
-#define D4                      PD13
-#define D5                      PD14
-#define D6                      PD15
-#define D7                      PC6
-#define D8                      PC7
-#define D9                      PC8
-#define D10                     PC9
-#define D11                     PA8
-#define D12                     PA9
-#define D13                     PA15
-#define D14                     PD5
-#define D15                     PD6
-#define D16                     PB10
-#define D17                     PB11
-#define D18                     PE8
-#define D19                     PE7
-#define D20                     PF15
-#define D21                     PF14
-#define D22                     PG6
-#define D23                     PG7
-#define D24                     PG4
-#define D25                     PG5
-#define D26                     PG2
-#define D27                     PG3
-#define D28                     PE11
-#define D29                     PE15
-#define D30                     PE9
-#define D31                     PE10
-#define D32                     PG0
-#define D33                     PG1
-#define D34                     PF13
-#define D35                     PF12
-#define D36                     PF11
-#define D37                     PG9
-#define D38                     PG10
-#define D39                     PG11
-#define D40                     PG12
-#define D41                     PG13
-#define D42                     PG14
-#define D43                     PF10
-#define D44                     PF4
-#define D45                     PF3
-#define D46                     PC14
-#define D47                     PC15
-#define D48                     PC13
-#define D49                     PE6
-#define D50                     PE5
-#define D51                     PE4
-#define D52                     PE3
-#define D53                     PE2
-
-#define A0                      PC0
-#define A1                      PC1
-#define A2                      PC2
-#define A3                      PC3
-#define A4                      PA0
-#define A5                      PA1
-#define A6                      PA2
-#define A7                      PA3
-#define A8                      PA6
-#define A9                      PA7
-#define A10                     PC4
-#define A11                     PC5
-
-#define DAC0                    PA4
-#define DAC1                    PA5
-#define CANRX                   PD0
-#define CANTX                   PD1
+#define NUM_DIGITAL_PINS        114
+#define NUM_ANALOG_INPUTS       24
 
 // On-board LED pin number
 #ifndef LED_BUILTIN

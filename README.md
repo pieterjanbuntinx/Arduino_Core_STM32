@@ -460,6 +460,12 @@ User can add a STM32 based board following this [wiki](https://github.com/stm32d
 | :----: | :-------: | ---- | :-----: | :---- |
 | :green_heart:  | STM32WB55CE | [SharkyMKR](https://midatronics.com/shop/development-boards/mkr-sharky-i/) | *1.7.0* |  |
 
+### [elecgator](https://www.elecgator.com/) boards
+
+| Status | Device(s) | Name | Release | Notes |
+| :----: | :-------: | ---- | :-----: | :---- |
+| :green_heart:  | STM32F746ZET | [EtherCATduino](https://www.elecgator.com/products/info/ethercatduino) | *2.1.0* |  |
+
 ## Next release
 
 See [milestones](https://github.com/stm32duino/Arduino_Core_STM32/milestones) to have an overview of the next release content.
