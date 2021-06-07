@@ -5535,11 +5535,6 @@ elecgator.menu.upload_method.swdMethod.upload.protocol=0
 elecgator.menu.upload_method.swdMethod.upload.options=-g
 elecgator.menu.upload_method.swdMethod.upload.tool=stm32CubeProg
 
-elecgator.menu.upload_method.serialMethod=STM32CubeProgrammer (Serial)
-elecgator.menu.upload_method.serialMethod.upload.protocol=1
-elecgator.menu.upload_method.serialMethod.upload.options={serial.port.file} -s
-elecgator.menu.upload_method.serialMethod.upload.tool=stm32CubeProg
-
 elecgator.menu.upload_method.dfuMethod=STM32CubeProgrammer (DFU)
 elecgator.menu.upload_method.dfuMethod.upload.protocol=2
 elecgator.menu.upload_method.dfuMethod.upload.options=-g
