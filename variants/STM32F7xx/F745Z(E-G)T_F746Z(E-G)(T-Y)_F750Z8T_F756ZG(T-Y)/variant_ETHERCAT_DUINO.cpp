@@ -99,9 +99,9 @@ extern "C"
   */
   WEAK void SystemClock_Config(void)
   {
-    RCC_OscInitTypeDef RCC_OscInitStruct = {0};
-    RCC_ClkInitTypeDef RCC_ClkInitStruct = {0};
-    RCC_PeriphCLKInitTypeDef PeriphClkInitStruct = {0};
+    RCC_OscInitTypeDef RCC_OscInitStruct = {};
+    RCC_ClkInitTypeDef RCC_ClkInitStruct = {};
+    RCC_PeriphCLKInitTypeDef PeriphClkInitStruct = {};
 
     /** Configure the main internal regulator output voltage 
   */
