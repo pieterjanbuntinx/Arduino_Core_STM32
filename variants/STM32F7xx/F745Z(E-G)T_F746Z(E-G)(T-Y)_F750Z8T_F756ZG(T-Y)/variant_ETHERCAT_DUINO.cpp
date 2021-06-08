@@ -131,6 +131,7 @@ WEAK void SystemClock_Config(void)
   /** Activate the Over-Drive mode
   */
   if (HAL_PWREx_EnableOverDrive() != HAL_OK) {
+    Error_Handler();
   }
   /** Initializes the CPU, AHB and APB busses clocks
   */
