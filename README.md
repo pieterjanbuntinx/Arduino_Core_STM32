@@ -464,7 +464,7 @@ User can add a STM32 based board following this [wiki](https://github.com/stm32d
 
 | Status | Device(s) | Name | Release | Notes |
 | :----: | :-------: | ---- | :-----: | :---- |
-| :green_heart:  | STM32F746ZET | [EtherCATduino](https://www.elecgator.com/products/info/ethercatduino) | *2.1.0* |  |
+| :yellow_heart:  | STM32F746ZET | [EtherCATduino](https://www.elecgator.com/products/info/ethercatduino) | **2.1.0** |  |
 
 ## Next release
 
